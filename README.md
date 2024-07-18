@@ -25,8 +25,8 @@ This project provides a custom annotation `@FindByDataTestId` to locate elements
 #### Clone the Repository:
 
    ```sh
-   git clone https://github.com/ercankirbiyik/findByDataTestID.git
-   cd findByDataTestID
+   git clone https://github.com/WEG-Technology/find-by-data-test-id.git
+   cd find-by-data-test-id
 ```
 
 ## Usage
@@ -101,3 +101,17 @@ public class HomePage {
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ercankirbiyik">
+        <img src="https://github.com/ercankirbiyik.png?size=50" width="50" height="50" alt="Name Surname">
+        <br>Ercan Kırbıyık
+      </a>
+    </td>
+    <!-- Repeat the <td> block for each contributor -->
+  </tr>
+</table>
